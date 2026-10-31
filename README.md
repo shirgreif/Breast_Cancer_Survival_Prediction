@@ -1,6 +1,5 @@
 # Breast Cancer Survival Prediction using Machine Learning
 
-> Portfolio copy on [@shirgreif](https://github.com/shirgreif). Originally hosted at [shiraJacob/Breast_Cancer_Survival_Prediction](https://github.com/shiraJacob/Breast_Cancer_Survival_Prediction). Collaborators: Shira Aronovich, Orin Cohen, Shir Greif.
 
 Application of machine learning classification algorithms (XGBoost, RF, SVM, MLP) to predict breast cancer patient survival, enhancing predictive accuracy through data preprocessing, feature engineering, and RFECV-based feature selection, effectively addressing challenges of imbalanced medical datasets.
 
