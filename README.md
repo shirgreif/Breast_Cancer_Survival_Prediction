@@ -67,7 +67,7 @@ Full statistical analysis was performed for each feature and the interactions be
 - Tuned models with cross-validation and evaluated them on imbalanced data.
 - Gained experience with model comparison and metric-based selection (AUC-ROC, Recall, F2).
 
-👥 This project was completed in collaboration with: Shira Aronovich, Orin Cohen, Shir Greif  .
+👥 This project was completed in collaboration with: Shira Aronovich and Orin Cohen  .
 
 
 
