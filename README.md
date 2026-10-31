@@ -29,7 +29,7 @@ Full statistical analysis was performed for each feature and the interactions be
 - **Discretization:** Converted continuous age into meaningful categorical bins.
 - **Normalization:** Min-Max scaling of quantitative variables.
 - **Categorical Encoding:** One-hot encoding for non-ordinal variables; ordinal mapping for ordered variables.
-- **Feature Engineering:** Created a new feature – ratio of positive to examined lymph nodes.
+- **Feature Engineering:** Created a new feature - ratio of positive to examined lymph nodes.
 
 <div align="center"><sub>Before data preparation</sub> </div>
 <div align="center"> <img src="https://github.com/user-attachments/assets/3482cb41-c5c4-4ca7-84a2-8195167e944a" width="600"/> </div>
